@@ -1,4 +1,5 @@
 # Add User
+A front-end React application for adding users.
 
 ## User Interface Design
 
