@@ -3,6 +3,8 @@ A front-end React application for adding new users to a list.
 
 ## User Interface Design
 
+![add-user](https://github.com/sidneyshafer/add-user-project/assets/66838571/0a01cce3-8ae9-4fe0-9493-2ef24dadc73a)
+
 ## App Usage
 Install dependencies
 ```
