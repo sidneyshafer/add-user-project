@@ -1,7 +1,5 @@
 # Add User App
-A front-end React application for adding new users to a list. 
-
-Check out the :link:[Live Demo](https://melodic-capybara-c2f903.netlify.app/).
+A front-end React application for adding new users to a list. Check out the :link:[Live Demo](https://melodic-capybara-c2f903.netlify.app/)
 
 ## User Interface Design
 
