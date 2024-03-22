@@ -18,3 +18,4 @@ Build for production:
 ```
 npm run build
 ```
+Production files will be in the `build` folder.
