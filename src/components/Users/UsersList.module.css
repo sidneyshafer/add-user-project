@@ -10,7 +10,10 @@
 }
 
 .users li {
-  border: 1px solid #ccc;
   margin: 0.5rem 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem 0.5rem 0.5rem;
+}
+
+.users li .age {
+  color: rgb(141, 153, 174);
 }
